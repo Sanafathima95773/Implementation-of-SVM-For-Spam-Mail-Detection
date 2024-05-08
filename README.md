@@ -18,7 +18,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: Sana Fathima h
+Developed by: Sana Fathima H
 RegisterNumber:  212223240145
 */
 import numpy as np
